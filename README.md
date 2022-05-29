@@ -16,3 +16,4 @@ the "Deliver" stage of your Pipeline.
 
 Prueba 1 [URL Local](https://jenkins.local/)
 Prueba 2 [Otro Link](https://mi.blog.com)
+![Prueba 3](https://github.com/mauromott4/simple-java-maven-app/images/test.svg)
