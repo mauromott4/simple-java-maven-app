@@ -14,9 +14,12 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
+
+# Aqui los links
 Prueba 1 [URL Local](https://jenkins.local/)
 Prueba 2 [Otro Link](https://mi.blog.com)
 
+# Aqui las imagenes
 
 Prueba 3 - La imagen
 
