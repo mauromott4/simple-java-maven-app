@@ -28,4 +28,4 @@ Prueba 3 - La imagen PNG
 
 Prueba 4 - La imagen JPG
 
-![Prueba 4 - Imagen - JPG](https://github.com/mauromott4/simple-java-maven-app/blob/main/images/signos.jpg)
+![Prueba 4 - Imagen - JPG](https://github.com/mauromott4/simple-java-maven-app/blob/main/images/SIGNOS.jpg)
