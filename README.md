@@ -22,6 +22,10 @@ Prueba 2 [Otro Link](https://mi.blog.com)
 
 # Aqui las imagenes
 
-Prueba 3 - La imagen
+Prueba 3 - La imagen PNG
 
-![Prueba 3](https://github.com/mauromott4/simple-java-maven-app/blob/main/images/test.svg)
+![Prueba 3 - Imagen - SVG](https://github.com/mauromott4/simple-java-maven-app/blob/main/images/test.svg)
+
+Prueba 4 - La imagen JPG
+
+![Prueba 4 - Imagen - JPG](https://github.com/mauromott4/simple-java-maven-app/blob/main/images/signos.jpg)
